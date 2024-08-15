@@ -29,6 +29,7 @@ You can install the necessary libraries using `pip`:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+```
 
 # Instructions
 1. Clone the Repository
@@ -38,6 +39,7 @@ Clone this repository to your local machine:
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+```
 
 2. Start Jupyter Notebook
 
