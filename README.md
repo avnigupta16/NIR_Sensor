@@ -1,5 +1,5 @@
 
-# Portable Spectrometer for Non-Invasive Sugar Content Detection in fruits Using Near-Infrared Spectrometry(NIRS)
+# Portable Spectrometer for Non-Invasive Sugar Content Detection in fruits Using Near-Infrared Spectrometry(NIRS).
 
 
 A brief description of what this project does and who it's for.
