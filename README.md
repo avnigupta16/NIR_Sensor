@@ -12,19 +12,22 @@ The core of the project involves integrating the AS7265x sensor with advanced ma
 
 By developing this portable spectrometer, our goal is to provide an efficient, user-friendly solution for the agricultural industry to improve harvesting practices, ensure better fruit quality, and increase consumer satisfaction.
 
-# Requirements
+## Requirements
 
 Before running the notebooks, ensure you have the following installed:
 
-Python 3.x
-Jupyter Notebook
-Required Python libraries:
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-You can install the necessary libraries using pip:
+- Python 3.x
+- Jupyter Notebook
+- Required Python libraries:
+  - `numpy`
+  - `pandas`
+  - `scikit-learn`
+  - `matplotlib`
+  - `seaborn`
+
+You can install the necessary libraries using `pip`:
+
+```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 # Instructions
@@ -32,6 +35,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 Clone this repository to your local machine:
 
+```bash
 git clone <repository-url>
 cd <repository-directory>
 
