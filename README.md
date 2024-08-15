@@ -2,7 +2,7 @@
 # Portable Spectrometer for Non-Invasive Sugar Content Detection in fruits Using Near-Infrared Spectrometry(NIRS)
 
 
-# A brief description of what this project does and who it's for
+A brief description of what this project does and who it's for
 
 This project explores the development of a portable spectrometer designed to evaluate the quality of oranges through non-invasive techniques. Leveraging the AS7265x sensor's multispectral capabilities, the project focuses on assessing key parameters such as sugar content (TSS), size, color, and acidity—essential factors for optimizing harvest timing and ensuring product quality.
 
